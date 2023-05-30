@@ -19,14 +19,8 @@
 </head>
 <body>
 	<div class="container">
-		<h3>TEST000 - update1</h3>
-		<pre>
-		test1
-		</pre>
-		<pre>
-		ex2) 수정 후 master에 올리기
+		<h3>EX1) login</h3>
 		
-		</pre>
-	</div>
-</body>
-</html>
+		</div>
+		</body>
+		

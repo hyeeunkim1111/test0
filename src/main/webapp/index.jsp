@@ -23,6 +23,9 @@
 		<pre>
 		test1
 		</pre>
+		<pre>
+		ex2) 수정 후 master에 올리기
+		</pre>
 	</div>
 </body>
 </html>

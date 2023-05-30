@@ -19,7 +19,7 @@
 </head>
 <body>
 	<div class="container">
-		<h3>기능개발</h3>
+		<h3>기능개발 - join</h3>
 	</div>
 </body>
 </html>
